@@ -1,7 +1,7 @@
 div {float:left}
 html {color: white}
 head {background-color: #1D1D1D ;font-family:"Arial" }
-body {background-image: url("../Fotos/fondo.jpg");font-family:"Arial" }
+body {background-image: url("photos/fondo.jpg");font-family:"Arial" }
 
 /* Full-width inputs */
 input[type=text], input[type=password] {
