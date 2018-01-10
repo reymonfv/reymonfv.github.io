@@ -1,0 +1,55 @@
+div {float:left}
+html {color: white}
+head {background-color: #1D1D1D ;font-family:"Arial" }
+body {background-image: url("../Fotos/fondo.jpg");font-family:"Arial" }
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: rgb(14, 37, 15);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid rgb(255, 255, 255);
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+
+
+/* Add padding to containers */
+.centrado {
+    padding: 32px;
+    float: none ;
+    margin: 0 auto;
+    width: 600px;
+    height: 263px;
+
+}
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.tabla{
+    font-size: x-large
+    
+}
+#foto2 {
+    position: absolute;
+    left: 690px;
+    top: 80px;
+}
